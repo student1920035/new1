@@ -11,3 +11,7 @@ cout << MyMul(10, 3) << endl;
 system("pause");
 return 0;
 }
+double MyDiv(double a, double b)
+{
+return a / b;
+}
